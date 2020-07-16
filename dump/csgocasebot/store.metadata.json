@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"csgocasebot.store"}],"uuid":"c37511051d3046da93ec47d28463ed65"}

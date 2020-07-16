@@ -1,0 +1,20 @@
+{
+    "coal": {
+        "name": "coal",
+        "value": 10,
+        "weight": 80,
+        "imgUrl": "coal.png"
+    },
+    "iron": {
+        "name": "iron",
+        "value": 20,
+        "weight": 15,
+        "imgUrl": "iron.png"
+    },
+    "gold": {
+        "name": "gold",
+        "value": 100,
+        "weight": 5,
+        "imgUrl": "gold.png"
+    }
+}

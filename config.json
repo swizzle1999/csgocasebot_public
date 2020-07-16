@@ -1,0 +1,17 @@
+{
+    "token": "NO",
+    "databaseUrl": "NO",
+    "prefix": ">",
+    "tickSpeed": 10000,
+    "defaultMoneyTick": 0.20,
+    "caseProbs": {
+        "blue": 76.3,
+        "purple": 16,
+        "pink": 5,
+        "red": 2,
+        "yellow": 0.7,
+        "stattrak": 1
+    },
+    "stringSeparator": " :small_orange_diamond: ",
+    "lineSeparator": " :orange_square: "
+}
